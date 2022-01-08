@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Waqar Azhar
-- 👀 I’m interested in awesome web stuff
-- 🌱 I’m currently learning cool stuff
+- 👀 I’m interested in working on cutting edge solutions
+- 🌱 I’m currently learning latest tech tools and advancements
 - 💞️ I’m looking to collaborate on new ideas
 - 📫 Reach me at waqarazher@gmail.com
 
